@@ -83,6 +83,55 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "id": "ecf4",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "632e",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "335b",
+      "date": "2025-06-17",
+      "description": "Food",
+      "category": "Chicken",
+      "amount": "3.55"
+    },
+    {
+      "id": "1d26",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "3993",
+      "date": "",
+      "description": "bbq",
+      "category": "Food",
+      "amount": null
+    },
+    {
+      "id": "b1e3",
+      "date": "2025-11-11",
+      "description": "bbq",
+      "category": "Food",
+      "amount": 2025
+    },
+    {
+      "id": "6ada",
+      "date": "2025-11-04",
+      "description": "Tablecloth",
+      "category": "Housing",
+      "amount": 214
     }
   ]
 }
